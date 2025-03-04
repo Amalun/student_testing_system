@@ -1,0 +1,8 @@
+# Python loyihasi uchun .gitignore
+venv/
+__pycache__/
+*.pyc
+*.pyo
+.idea/
+.DS_Store
+.env
